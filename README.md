@@ -1,6 +1,6 @@
 ### Hi what I'm working on !!!! 👋
 
-<!--
+
 
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Email]{lohith05amal@gmail.com}
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...const me = 'lost-boy';  
--->
+
