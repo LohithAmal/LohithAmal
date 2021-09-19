@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Email](lohith05amal@gmail.com)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...const me = 'lost-boy';  
+
 
